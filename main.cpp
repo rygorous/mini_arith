@@ -1,3 +1,7 @@
+// Simple byte-aligned binary arithmetic coder (Ilya Muravyov's variant) - public domain - Fabian 'ryg' Giesen 2015
+//
+// Written for clarity not speed!
+
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 #include <stdint.h>
